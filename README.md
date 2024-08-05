@@ -21,7 +21,7 @@ This project compares invoices based on text content and structure using cosine 
     ```
     pip install -r requirements.txt
     ```
-2. Place your invoice PDFs in the `data` directory.
+2. Place your invoice PDFs in the `data` directory. Create `data` directory and inside it create two more directory named as `train` and `test`.  
 
 3. Run the script:
     ```
